@@ -11,7 +11,7 @@
 <br>
 
 <!--- Introduction --->
-### To view the wiki, go to the [Table of Contents](/wiki/Table-of-Contents).</h3>
+### To view the wiki, go to the [Table of Contents](https://github.com/solsticelinux/Solstice-OS-Wiki/wiki/Table%20of%20Contents).</h3>
 
 <br>
 
