@@ -1,13 +1,11 @@
+<!--- Title --->
 <div align='center'>
-<h2>Do You Want to Contribute to the Wiki?</h2>
+<h1>Do You Want to Contribute to the Wiki?</h1>
 </div>  
-You can just fork the repo and send a pull request :)
-<br>
-As stated in the README, this is the temporary home of the wiki. It will likely be merged into the main repo, or we will make a separate repo under the Solstice account.
-<br>
-Your contributions are appreciated, but do not expect them to stick.
-<br><br>
-If you have any questions or just want to hang out, please join the Discord server <3
+
+<!--- Body --->
+Just fork the repository, make your edits, and create a pull request! You will be credited and directly help the Solstice OS project 💖 
+
+As of now there is no strict design outline. Please join the Discord server if you have questions :)
 <br>
 https://discord.gg/8EGwstbayD  
-<h5><i>I promise that I'm nice</i>🥺</h5>
