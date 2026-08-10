@@ -7,6 +7,8 @@ To see the current progress of the wiki, locate the "wiki" button :)
   <br>
 To visit the actual repository, go to https://github.com/solsticelinux/solstice-os
 <br>
-big thanks to:
-- **NEOAPPS** — early collaborator, distro developer, architecture advisor
-- **linux from scratch** — that book is insane, literally teaches you how to build a distro from nothing
+
+<h2>Shoutouts</h2>
+- <b>NEOAPPS</b> — Early collaborator, distro developer, helping with package manager architecture<br>  
+- <b>AhYesGoodTitle</b> — Making the documentation beautiful 🤩<br>
+- <b>Linux From Scratch</b> — The inspiration for how we approach bootstrapping [https://www.linuxfromscratch.org/]
