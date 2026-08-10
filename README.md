@@ -3,9 +3,10 @@
 </p>
 
 <h3>Welcome to the Temporary Home of the Solstice OS Wiki <3</h3>  
-To see the current progress of the wiki, locate the "wiki" button :)  
+To see the current progress of the wiki, locate the "wiki" button :)
+  <br>
 To visit the actual repository, go to https://github.com/solsticelinux/solstice-os
-
+<br>
 big thanks to:
 - **NEOAPPS** — early collaborator, distro developer, architecture advisor
 - **linux from scratch** — that book is insane, literally teaches you how to build a distro from nothing
