@@ -6,8 +6,8 @@
 <h2>Welcome to the Temporary Home of the Solstice OS Wiki <3</h2>
 </div>
   
-To see the current progress of the wiki, locate the "wiki" button :)
-  <br>
+To see the current progress of the wiki, locate the 'wiki' button below my username and repo name :)
+<br>
 To visit the actual repository, go to https://github.com/solsticelinux/solstice-os
 <br>
 
